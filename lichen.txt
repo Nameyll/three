@@ -1,0 +1,15 @@
+
+    2017-10-18号
+
+  学习内容汇报
+      李晨 ：github
+               1.本地创建目录
+               2.初始化一个仓库    git init
+	       3.缓存文件      git add url
+ 	       4.检查当前仓库状态    git status  
+	       5.添加提交备注         git commit -m "备注"
+               6.上传文件       git push origin master
+
+
+
+
